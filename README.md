@@ -7,3 +7,6 @@ https://www.linkedin.com/learning/intermediate-python-for-non-programmers/ by Ni
 The classes here are mostly created while watching the course and experimenting with Python.
 
 The IDE I am using is Visual Studio Code with Copilot.
+
+## Used APIs:
+https://openweathermap.org/api
